@@ -16,6 +16,6 @@ samples, guidance on mobile development, and a full API reference.
 - Um template simples para aplicativos Empresariais
 
 <p float="left">
-  <img src="screenshots/screen_2.png" width="360" />
+  <img src="screenshots/screen_1.png" width="360" />
   <img src="screenshots/screen_2.png" width="360" /> 
   </p>
