@@ -1,4 +1,3 @@
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
@@ -14,4 +13,9 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Aplicativo desenvolvido c/ framework de dart: Flutter
 
-* Um template simples para aplicativos Empresariais
+- Um template simples para aplicativos Empresariais
+
+<p float="left">
+  <img src="screenshots/screen_2.png" width="360" />
+  <img src="screenshots/screen_2.png" width="360" /> 
+  </p>
