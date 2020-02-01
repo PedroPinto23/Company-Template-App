@@ -14,4 +14,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Aplicativo desenvolvido c/ framework de dart: Flutter
 
-* Um template para aplicativos Empresariais
+* Um template simples para aplicativos Empresariais
