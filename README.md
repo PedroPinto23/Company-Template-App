@@ -13,7 +13,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Aplicativo desenvolvido c/ framework do Dart: Flutter
 
-- Um template simples para aplicativos Empresariais
+- Um template simples c/ Navigation Drawer para aplicativos Empresariais
 
 <p float="left">
   <img src="screenshots/screen_1.png" width="360" />
