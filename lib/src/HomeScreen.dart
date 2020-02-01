@@ -4,7 +4,7 @@ import 'package:google_fonts/google_fonts.dart';
 import 'pages/Contatos.dart';
 import 'pages/Home.dart';
 import 'pages/Informations.dart';
-import 'pages/Segmentos.dart';
+import 'pages/Detalhes.dart';
 import 'pages/Videos.dart';
 
 class HomeScreen extends StatefulWidget {
@@ -29,7 +29,7 @@ class _HomeScreenState extends State<HomeScreen> {
       ),
       BottomNavigationBarItem(
         icon: Icon(Icons.trending_up, color: Colors.grey),
-        title: Text('Segmentos'),
+        title: Text('Detalhes'),
       ),
       BottomNavigationBarItem(
         icon: Icon(Icons.ondemand_video, color: Colors.grey),
@@ -55,7 +55,7 @@ class _HomeScreenState extends State<HomeScreen> {
         Home(),
         Contatos(),
         Informations(),
-        Segmentos(),
+        Detalhes(),
         Videos()
       ],
     );

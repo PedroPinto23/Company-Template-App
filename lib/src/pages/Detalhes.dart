@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 
-class Segmentos extends StatefulWidget {
+class Detalhes extends StatefulWidget {
   @override
-  _SegmentosState createState() => _SegmentosState();
+  _DetalhesState createState() => _DetalhesState();
 }
 
-class _SegmentosState extends State<Segmentos> {
+class _DetalhesState extends State<Detalhes> {
   @override
   Widget build(BuildContext context) {
     return Container(
