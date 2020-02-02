@@ -89,9 +89,8 @@ class _HomeScreenState extends State<HomeScreen> {
     return Scaffold(
       appBar: AppBar(
         title: Image.network(
-          'https://www.stickpng.com/assets/images/5842a770a6515b1e0ad75afe.png',
-          height: 80,
-          width: 180,
+          'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/The_Boring_Company_Logo.svg/1200px-The_Boring_Company_Logo.svg.png',
+         
         ),
         centerTitle: true,
         backgroundColor: Colors.white,
