@@ -13,7 +13,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Aplicativo desenvolvido c/ framework do Dart: Flutter
 
--obs: logo from: https://www.boringcompany.com
+* obs: logo from: https://www.boringcompany.com
 
 - Um template simples c/ Navigation Drawer
 
