@@ -16,5 +16,5 @@ samples, guidance on mobile development, and a full API reference.
 - Um template simples c/ Navigation Drawer para aplicativos Empresariais
 
 <p float="left">
-  <img src="flutter_01.png" width="360" />
+  <img src="screenshots/flutter_01.png" width="360" />
   </p>
